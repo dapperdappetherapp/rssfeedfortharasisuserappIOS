@@ -3,8 +3,8 @@
     <channel>
         <title>Help Code TJCODE- Appcast</title>
         <item>
-            <sparkle:version>1.0.4</sparkle:version>
-            <title>Version 1.0.4</title>
+            <sparkle:version>1.0.5</sparkle:version>
+            <title>Version 1.0.5</title>
             <description>desc</description>
             <pubDate>Fri, 24 May 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/tharasis-social-hangouts/id6483764358" sparkle:version="1.0.0" sparkle:os="ios" />
